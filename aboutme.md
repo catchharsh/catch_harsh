@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: Competitive Programmer | Developer | Anime Lover
 ---
-Hi, I'm Harsh Gupta, a sophomore at IIT Patna.  
+Hi, I'm Harsh Gupta, a CSE undergrad at IIT Patna (Exp. 2022).  
 I am a competitive programmer cum developer, would like to work on something that can impact the society in a positive way.
 Solving problems is my hobby and I really enjoy this _sport_.  
 
